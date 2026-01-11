@@ -1,0 +1,5 @@
+.env
+**/__pycache__/
+VERSION.txt
+업데이트.md
+files/*
